@@ -1,0 +1,4 @@
+CLR	1.87237
+HiFi-only	1.59629
+HiFi-Hic	0.892503
+HiFi-trio	0.726224

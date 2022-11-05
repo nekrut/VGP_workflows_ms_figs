@@ -1,0 +1,4 @@
+CLR	1.29	13.8
+HiFi-only	0.6	6.7
+HiFi-Hic	0.21	2.4
+HiFi-trio	0.12	1.3

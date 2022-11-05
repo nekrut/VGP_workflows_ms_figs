@@ -1,0 +1,787 @@
+Copies	kmer_multiplicity	Count	Assembly	ordering
+1	2	20	19707	Trio hap1 (pat)	1
+2	2	21	20797	Trio hap1 (pat)	1
+3	2	22	21937	Trio hap1 (pat)	1
+4	2	23	22992	Trio hap1 (pat)	1
+5	2	24	24552	Trio hap1 (pat)	1
+6	2	25	25297	Trio hap1 (pat)	1
+7	2	26	26826	Trio hap1 (pat)	1
+8	2	27	28066	Trio hap1 (pat)	1
+9	2	28	29049	Trio hap1 (pat)	1
+10	2	29	30376	Trio hap1 (pat)	1
+11	2	30	32037	Trio hap1 (pat)	1
+12	2	31	33373	Trio hap1 (pat)	1
+13	2	32	35196	Trio hap1 (pat)	1
+14	2	33	36318	Trio hap1 (pat)	1
+15	2	34	38665	Trio hap1 (pat)	1
+16	2	35	39816	Trio hap1 (pat)	1
+17	2	36	40801	Trio hap1 (pat)	1
+18	2	37	42303	Trio hap1 (pat)	1
+19	2	38	44136	Trio hap1 (pat)	1
+20	2	39	45653	Trio hap1 (pat)	1
+21	2	40	46634	Trio hap1 (pat)	1
+22	2	41	48197	Trio hap1 (pat)	1
+23	2	42	49361	Trio hap1 (pat)	1
+24	2	43	51371	Trio hap1 (pat)	1
+25	2	44	52961	Trio hap1 (pat)	1
+26	2	45	54158	Trio hap1 (pat)	1
+27	2	46	55449	Trio hap1 (pat)	1
+28	2	47	57254	Trio hap1 (pat)	1
+29	2	48	58966	Trio hap1 (pat)	1
+30	2	49	60812	Trio hap1 (pat)	1
+31	2	50	61865	Trio hap1 (pat)	1
+32	2	51	63460	Trio hap1 (pat)	1
+33	2	52	65290	Trio hap1 (pat)	1
+34	2	53	66978	Trio hap1 (pat)	1
+35	2	54	68629	Trio hap1 (pat)	1
+36	2	55	70195	Trio hap1 (pat)	1
+37	2	56	71683	Trio hap1 (pat)	1
+38	2	57	72700	Trio hap1 (pat)	1
+39	2	58	74543	Trio hap1 (pat)	1
+40	2	59	76256	Trio hap1 (pat)	1
+41	2	60	78156	Trio hap1 (pat)	1
+42	2	61	79596	Trio hap1 (pat)	1
+43	2	62	81001	Trio hap1 (pat)	1
+44	2	63	82724	Trio hap1 (pat)	1
+45	2	64	83646	Trio hap1 (pat)	1
+46	2	65	85558	Trio hap1 (pat)	1
+47	2	66	86707	Trio hap1 (pat)	1
+48	2	67	87741	Trio hap1 (pat)	1
+49	2	68	88924	Trio hap1 (pat)	1
+50	2	69	89647	Trio hap1 (pat)	1
+51	2	70	90720	Trio hap1 (pat)	1
+52	2	71	91282	Trio hap1 (pat)	1
+53	2	72	91985	Trio hap1 (pat)	1
+54	2	73	92290	Trio hap1 (pat)	1
+55	2	74	92238	Trio hap1 (pat)	1
+56	2	75	92326	Trio hap1 (pat)	1
+57	2	76	92904	Trio hap1 (pat)	1
+58	2	77	92640	Trio hap1 (pat)	1
+59	2	78	92453	Trio hap1 (pat)	1
+60	2	79	91811	Trio hap1 (pat)	1
+61	2	80	91942	Trio hap1 (pat)	1
+62	2	81	91547	Trio hap1 (pat)	1
+63	2	82	91067	Trio hap1 (pat)	1
+64	2	83	91711	Trio hap1 (pat)	1
+65	2	84	90546	Trio hap1 (pat)	1
+66	2	85	90537	Trio hap1 (pat)	1
+67	2	86	90721	Trio hap1 (pat)	1
+68	2	87	89954	Trio hap1 (pat)	1
+69	2	88	89746	Trio hap1 (pat)	1
+70	2	89	89991	Trio hap1 (pat)	1
+71	2	90	88925	Trio hap1 (pat)	1
+72	2	91	89621	Trio hap1 (pat)	1
+73	2	92	88525	Trio hap1 (pat)	1
+74	2	93	87766	Trio hap1 (pat)	1
+75	2	94	87616	Trio hap1 (pat)	1
+76	2	95	87599	Trio hap1 (pat)	1
+77	2	96	86779	Trio hap1 (pat)	1
+78	2	97	86313	Trio hap1 (pat)	1
+79	2	98	85624	Trio hap1 (pat)	1
+80	2	99	85404	Trio hap1 (pat)	1
+81	2	100	84945	Trio hap1 (pat)	1
+82	2	101	84398	Trio hap1 (pat)	1
+83	2	102	83619	Trio hap1 (pat)	1
+84	2	103	82581	Trio hap1 (pat)	1
+85	2	104	82515	Trio hap1 (pat)	1
+86	2	105	82385	Trio hap1 (pat)	1
+87	2	106	81610	Trio hap1 (pat)	1
+88	2	107	81102	Trio hap1 (pat)	1
+89	2	108	80740	Trio hap1 (pat)	1
+90	2	109	79581	Trio hap1 (pat)	1
+91	2	110	79365	Trio hap1 (pat)	1
+92	2	111	78876	Trio hap1 (pat)	1
+93	2	112	77628	Trio hap1 (pat)	1
+94	2	113	77534	Trio hap1 (pat)	1
+95	2	114	77318	Trio hap1 (pat)	1
+96	2	115	76015	Trio hap1 (pat)	1
+97	2	116	75623	Trio hap1 (pat)	1
+98	2	117	74691	Trio hap1 (pat)	1
+99	2	118	73960	Trio hap1 (pat)	1
+100	2	119	72905	Trio hap1 (pat)	1
+101	2	120	71981	Trio hap1 (pat)	1
+102	2	121	70869	Trio hap1 (pat)	1
+103	2	122	70343	Trio hap1 (pat)	1
+104	2	123	69925	Trio hap1 (pat)	1
+105	2	124	68792	Trio hap1 (pat)	1
+106	2	125	67902	Trio hap1 (pat)	1
+107	2	126	67660	Trio hap1 (pat)	1
+108	2	127	66350	Trio hap1 (pat)	1
+109	2	128	65548	Trio hap1 (pat)	1
+110	2	129	63986	Trio hap1 (pat)	1
+111	2	130	63368	Trio hap1 (pat)	1
+112	2	131	62101	Trio hap1 (pat)	1
+113	2	132	61648	Trio hap1 (pat)	1
+114	2	133	60813	Trio hap1 (pat)	1
+115	2	134	59343	Trio hap1 (pat)	1
+116	2	135	57960	Trio hap1 (pat)	1
+117	2	136	57069	Trio hap1 (pat)	1
+118	2	137	55935	Trio hap1 (pat)	1
+119	2	138	54489	Trio hap1 (pat)	1
+120	2	139	53552	Trio hap1 (pat)	1
+121	2	140	52764	Trio hap1 (pat)	1
+122	2	141	51605	Trio hap1 (pat)	1
+123	2	142	50425	Trio hap1 (pat)	1
+124	2	143	49546	Trio hap1 (pat)	1
+125	2	144	48667	Trio hap1 (pat)	1
+126	2	145	47182	Trio hap1 (pat)	1
+127	2	146	45613	Trio hap1 (pat)	1
+128	2	147	44760	Trio hap1 (pat)	1
+129	2	148	43433	Trio hap1 (pat)	1
+130	2	149	42444	Trio hap1 (pat)	1
+131	2	150	41261	Trio hap1 (pat)	1
+132	2	20	30567	Trio hap2 (mat)	2
+133	2	21	32562	Trio hap2 (mat)	2
+134	2	22	34872	Trio hap2 (mat)	2
+135	2	23	37300	Trio hap2 (mat)	2
+136	2	24	40050	Trio hap2 (mat)	2
+137	2	25	42979	Trio hap2 (mat)	2
+138	2	26	46002	Trio hap2 (mat)	2
+139	2	27	49295	Trio hap2 (mat)	2
+140	2	28	54005	Trio hap2 (mat)	2
+141	2	29	58871	Trio hap2 (mat)	2
+142	2	30	65213	Trio hap2 (mat)	2
+143	2	31	71371	Trio hap2 (mat)	2
+144	2	32	78682	Trio hap2 (mat)	2
+145	2	33	85794	Trio hap2 (mat)	2
+146	2	34	94961	Trio hap2 (mat)	2
+147	2	35	104543	Trio hap2 (mat)	2
+148	2	36	114412	Trio hap2 (mat)	2
+149	2	37	127428	Trio hap2 (mat)	2
+150	2	38	139896	Trio hap2 (mat)	2
+151	2	39	154814	Trio hap2 (mat)	2
+152	2	40	170263	Trio hap2 (mat)	2
+153	2	41	187633	Trio hap2 (mat)	2
+154	2	42	205503	Trio hap2 (mat)	2
+155	2	43	225214	Trio hap2 (mat)	2
+156	2	44	245777	Trio hap2 (mat)	2
+157	2	45	267153	Trio hap2 (mat)	2
+158	2	46	292836	Trio hap2 (mat)	2
+159	2	47	320082	Trio hap2 (mat)	2
+160	2	48	348528	Trio hap2 (mat)	2
+161	2	49	377710	Trio hap2 (mat)	2
+162	2	50	408687	Trio hap2 (mat)	2
+163	2	51	440900	Trio hap2 (mat)	2
+164	2	52	475770	Trio hap2 (mat)	2
+165	2	53	511800	Trio hap2 (mat)	2
+166	2	54	546635	Trio hap2 (mat)	2
+167	2	55	582357	Trio hap2 (mat)	2
+168	2	56	619708	Trio hap2 (mat)	2
+169	2	57	651150	Trio hap2 (mat)	2
+170	2	58	684419	Trio hap2 (mat)	2
+171	2	59	715767	Trio hap2 (mat)	2
+172	2	60	746406	Trio hap2 (mat)	2
+173	2	61	774622	Trio hap2 (mat)	2
+174	2	62	802994	Trio hap2 (mat)	2
+175	2	63	826714	Trio hap2 (mat)	2
+176	2	64	844329	Trio hap2 (mat)	2
+177	2	65	861260	Trio hap2 (mat)	2
+178	2	66	878717	Trio hap2 (mat)	2
+179	2	67	886959	Trio hap2 (mat)	2
+180	2	68	897261	Trio hap2 (mat)	2
+181	2	69	899348	Trio hap2 (mat)	2
+182	2	70	899204	Trio hap2 (mat)	2
+183	2	71	896567	Trio hap2 (mat)	2
+184	2	72	887749	Trio hap2 (mat)	2
+185	2	73	874155	Trio hap2 (mat)	2
+186	2	74	861993	Trio hap2 (mat)	2
+187	2	75	846236	Trio hap2 (mat)	2
+188	2	76	826552	Trio hap2 (mat)	2
+189	2	77	805524	Trio hap2 (mat)	2
+190	2	78	782592	Trio hap2 (mat)	2
+191	2	79	756520	Trio hap2 (mat)	2
+192	2	80	728271	Trio hap2 (mat)	2
+193	2	81	702912	Trio hap2 (mat)	2
+194	2	82	676112	Trio hap2 (mat)	2
+195	2	83	648347	Trio hap2 (mat)	2
+196	2	84	616340	Trio hap2 (mat)	2
+197	2	85	588663	Trio hap2 (mat)	2
+198	2	86	560867	Trio hap2 (mat)	2
+199	2	87	532511	Trio hap2 (mat)	2
+200	2	88	502396	Trio hap2 (mat)	2
+201	2	89	474177	Trio hap2 (mat)	2
+202	2	90	448281	Trio hap2 (mat)	2
+203	2	91	422328	Trio hap2 (mat)	2
+204	2	92	396637	Trio hap2 (mat)	2
+205	2	93	374258	Trio hap2 (mat)	2
+206	2	94	351742	Trio hap2 (mat)	2
+207	2	95	330165	Trio hap2 (mat)	2
+208	2	96	308940	Trio hap2 (mat)	2
+209	2	97	291149	Trio hap2 (mat)	2
+210	2	98	272169	Trio hap2 (mat)	2
+211	2	99	254671	Trio hap2 (mat)	2
+212	2	100	239814	Trio hap2 (mat)	2
+213	2	101	224920	Trio hap2 (mat)	2
+214	2	102	211463	Trio hap2 (mat)	2
+215	2	103	198604	Trio hap2 (mat)	2
+216	2	104	187180	Trio hap2 (mat)	2
+217	2	105	175837	Trio hap2 (mat)	2
+218	2	106	166153	Trio hap2 (mat)	2
+219	2	107	157483	Trio hap2 (mat)	2
+220	2	108	148981	Trio hap2 (mat)	2
+221	2	109	140800	Trio hap2 (mat)	2
+222	2	110	134176	Trio hap2 (mat)	2
+223	2	111	127449	Trio hap2 (mat)	2
+224	2	112	120500	Trio hap2 (mat)	2
+225	2	113	115904	Trio hap2 (mat)	2
+226	2	114	110903	Trio hap2 (mat)	2
+227	2	115	106015	Trio hap2 (mat)	2
+228	2	116	102040	Trio hap2 (mat)	2
+229	2	117	98390	Trio hap2 (mat)	2
+230	2	118	94346	Trio hap2 (mat)	2
+231	2	119	90530	Trio hap2 (mat)	2
+232	2	120	87531	Trio hap2 (mat)	2
+233	2	121	84401	Trio hap2 (mat)	2
+234	2	122	82310	Trio hap2 (mat)	2
+235	2	123	80044	Trio hap2 (mat)	2
+236	2	124	77973	Trio hap2 (mat)	2
+237	2	125	75469	Trio hap2 (mat)	2
+238	2	126	73425	Trio hap2 (mat)	2
+239	2	127	70877	Trio hap2 (mat)	2
+240	2	128	69724	Trio hap2 (mat)	2
+241	2	129	67444	Trio hap2 (mat)	2
+242	2	130	65706	Trio hap2 (mat)	2
+243	2	131	64373	Trio hap2 (mat)	2
+244	2	132	63155	Trio hap2 (mat)	2
+245	2	133	61642	Trio hap2 (mat)	2
+246	2	134	59891	Trio hap2 (mat)	2
+247	2	135	58394	Trio hap2 (mat)	2
+248	2	136	56799	Trio hap2 (mat)	2
+249	2	137	55669	Trio hap2 (mat)	2
+250	2	138	53928	Trio hap2 (mat)	2
+251	2	139	52976	Trio hap2 (mat)	2
+252	2	140	51689	Trio hap2 (mat)	2
+253	2	141	50509	Trio hap2 (mat)	2
+254	2	142	49248	Trio hap2 (mat)	2
+255	2	143	47830	Trio hap2 (mat)	2
+256	2	144	46938	Trio hap2 (mat)	2
+257	2	145	45723	Trio hap2 (mat)	2
+258	2	146	44094	Trio hap2 (mat)	2
+259	2	147	42947	Trio hap2 (mat)	2
+260	2	148	41576	Trio hap2 (mat)	2
+261	2	149	40512	Trio hap2 (mat)	2
+262	2	150	39450	Trio hap2 (mat)	2
+263	2	20	62447	HiC hap1	3
+264	2	21	65939	HiC hap1	3
+265	2	22	69644	HiC hap1	3
+266	2	23	73196	HiC hap1	3
+267	2	24	77165	HiC hap1	3
+268	2	25	80389	HiC hap1	3
+269	2	26	83137	HiC hap1	3
+270	2	27	86123	HiC hap1	3
+271	2	28	89271	HiC hap1	3
+272	2	29	93049	HiC hap1	3
+273	2	30	96318	HiC hap1	3
+274	2	31	100133	HiC hap1	3
+275	2	32	104264	HiC hap1	3
+276	2	33	107415	HiC hap1	3
+277	2	34	113056	HiC hap1	3
+278	2	35	116986	HiC hap1	3
+279	2	36	121628	HiC hap1	3
+280	2	37	125441	HiC hap1	3
+281	2	38	130539	HiC hap1	3
+282	2	39	134878	HiC hap1	3
+283	2	40	139670	HiC hap1	3
+284	2	41	144605	HiC hap1	3
+285	2	42	148400	HiC hap1	3
+286	2	43	151241	HiC hap1	3
+287	2	44	155543	HiC hap1	3
+288	2	45	159224	HiC hap1	3
+289	2	46	161522	HiC hap1	3
+290	2	47	165667	HiC hap1	3
+291	2	48	169554	HiC hap1	3
+292	2	49	171143	HiC hap1	3
+293	2	50	173115	HiC hap1	3
+294	2	51	176847	HiC hap1	3
+295	2	52	178720	HiC hap1	3
+296	2	53	179548	HiC hap1	3
+297	2	54	180441	HiC hap1	3
+298	2	55	181818	HiC hap1	3
+299	2	56	182732	HiC hap1	3
+300	2	57	183345	HiC hap1	3
+301	2	58	183715	HiC hap1	3
+302	2	59	183258	HiC hap1	3
+303	2	60	184921	HiC hap1	3
+304	2	61	184237	HiC hap1	3
+305	2	62	183000	HiC hap1	3
+306	2	63	182446	HiC hap1	3
+307	2	64	181679	HiC hap1	3
+308	2	65	180256	HiC hap1	3
+309	2	66	178724	HiC hap1	3
+310	2	67	177261	HiC hap1	3
+311	2	68	175458	HiC hap1	3
+312	2	69	173190	HiC hap1	3
+313	2	70	170934	HiC hap1	3
+314	2	71	168933	HiC hap1	3
+315	2	72	165706	HiC hap1	3
+316	2	73	162629	HiC hap1	3
+317	2	74	160670	HiC hap1	3
+318	2	75	157425	HiC hap1	3
+319	2	76	153368	HiC hap1	3
+320	2	77	150304	HiC hap1	3
+321	2	78	146616	HiC hap1	3
+322	2	79	144209	HiC hap1	3
+323	2	80	141173	HiC hap1	3
+324	2	81	138657	HiC hap1	3
+325	2	82	135754	HiC hap1	3
+326	2	83	133277	HiC hap1	3
+327	2	84	129154	HiC hap1	3
+328	2	85	126895	HiC hap1	3
+329	2	86	124998	HiC hap1	3
+330	2	87	122153	HiC hap1	3
+331	2	88	120013	HiC hap1	3
+332	2	89	118042	HiC hap1	3
+333	2	90	115096	HiC hap1	3
+334	2	91	113528	HiC hap1	3
+335	2	92	111003	HiC hap1	3
+336	2	93	109668	HiC hap1	3
+337	2	94	108025	HiC hap1	3
+338	2	95	106298	HiC hap1	3
+339	2	96	104471	HiC hap1	3
+340	2	97	102696	HiC hap1	3
+341	2	98	100972	HiC hap1	3
+342	2	99	99524	HiC hap1	3
+343	2	100	98639	HiC hap1	3
+344	2	101	97177	HiC hap1	3
+345	2	102	95617	HiC hap1	3
+346	2	103	94258	HiC hap1	3
+347	2	104	93593	HiC hap1	3
+348	2	105	91906	HiC hap1	3
+349	2	106	90939	HiC hap1	3
+350	2	107	90088	HiC hap1	3
+351	2	108	88689	HiC hap1	3
+352	2	109	86991	HiC hap1	3
+353	2	110	85819	HiC hap1	3
+354	2	111	84971	HiC hap1	3
+355	2	112	83732	HiC hap1	3
+356	2	113	83193	HiC hap1	3
+357	2	114	82601	HiC hap1	3
+358	2	115	81065	HiC hap1	3
+359	2	116	80662	HiC hap1	3
+360	2	117	80011	HiC hap1	3
+361	2	118	78373	HiC hap1	3
+362	2	119	76964	HiC hap1	3
+363	2	120	76045	HiC hap1	3
+364	2	121	74803	HiC hap1	3
+365	2	122	73855	HiC hap1	3
+366	2	123	73191	HiC hap1	3
+367	2	124	72240	HiC hap1	3
+368	2	125	70932	HiC hap1	3
+369	2	126	70184	HiC hap1	3
+370	2	127	68874	HiC hap1	3
+371	2	128	68339	HiC hap1	3
+372	2	129	66297	HiC hap1	3
+373	2	130	66000	HiC hap1	3
+374	2	131	64341	HiC hap1	3
+375	2	132	63776	HiC hap1	3
+376	2	133	62897	HiC hap1	3
+377	2	134	61269	HiC hap1	3
+378	2	135	59725	HiC hap1	3
+379	2	136	58660	HiC hap1	3
+380	2	137	57574	HiC hap1	3
+381	2	138	56174	HiC hap1	3
+382	2	139	55191	HiC hap1	3
+383	2	140	54021	HiC hap1	3
+384	2	141	52876	HiC hap1	3
+385	2	142	51541	HiC hap1	3
+386	2	143	50561	HiC hap1	3
+387	2	144	49596	HiC hap1	3
+388	2	145	48040	HiC hap1	3
+389	2	146	46400	HiC hap1	3
+390	2	147	45490	HiC hap1	3
+391	2	148	44026	HiC hap1	3
+392	2	149	43067	HiC hap1	3
+393	2	150	41807	HiC hap1	3
+394	2	20	14413	HiC hap2	4
+395	2	21	14795	HiC hap2	4
+396	2	22	15540	HiC hap2	4
+397	2	23	16346	HiC hap2	4
+398	2	24	16908	HiC hap2	4
+399	2	25	17474	HiC hap2	4
+400	2	26	18489	HiC hap2	4
+401	2	27	18952	HiC hap2	4
+402	2	28	19798	HiC hap2	4
+403	2	29	20724	HiC hap2	4
+404	2	30	21772	HiC hap2	4
+405	2	31	22710	HiC hap2	4
+406	2	32	23540	HiC hap2	4
+407	2	33	24314	HiC hap2	4
+408	2	34	25615	HiC hap2	4
+409	2	35	26444	HiC hap2	4
+410	2	36	27402	HiC hap2	4
+411	2	37	28815	HiC hap2	4
+412	2	38	29482	HiC hap2	4
+413	2	39	30662	HiC hap2	4
+414	2	40	31741	HiC hap2	4
+415	2	41	33077	HiC hap2	4
+416	2	42	34292	HiC hap2	4
+417	2	43	35397	HiC hap2	4
+418	2	44	37022	HiC hap2	4
+419	2	45	38178	HiC hap2	4
+420	2	46	39379	HiC hap2	4
+421	2	47	40736	HiC hap2	4
+422	2	48	42278	HiC hap2	4
+423	2	49	43757	HiC hap2	4
+424	2	50	44865	HiC hap2	4
+425	2	51	46017	HiC hap2	4
+426	2	52	47279	HiC hap2	4
+427	2	53	48586	HiC hap2	4
+428	2	54	50168	HiC hap2	4
+429	2	55	52014	HiC hap2	4
+430	2	56	52977	HiC hap2	4
+431	2	57	53740	HiC hap2	4
+432	2	58	54748	HiC hap2	4
+433	2	59	56185	HiC hap2	4
+434	2	60	57188	HiC hap2	4
+435	2	61	58058	HiC hap2	4
+436	2	62	59126	HiC hap2	4
+437	2	63	59778	HiC hap2	4
+438	2	64	60473	HiC hap2	4
+439	2	65	60948	HiC hap2	4
+440	2	66	61413	HiC hap2	4
+441	2	67	62441	HiC hap2	4
+442	2	68	63205	HiC hap2	4
+443	2	69	63889	HiC hap2	4
+444	2	70	64333	HiC hap2	4
+445	2	71	65231	HiC hap2	4
+446	2	72	64757	HiC hap2	4
+447	2	73	65072	HiC hap2	4
+448	2	74	65372	HiC hap2	4
+449	2	75	65524	HiC hap2	4
+450	2	76	65937	HiC hap2	4
+451	2	77	65975	HiC hap2	4
+452	2	78	66379	HiC hap2	4
+453	2	79	66166	HiC hap2	4
+454	2	80	67148	HiC hap2	4
+455	2	81	66918	HiC hap2	4
+456	2	82	67039	HiC hap2	4
+457	2	83	67922	HiC hap2	4
+458	2	84	67700	HiC hap2	4
+459	2	85	67855	HiC hap2	4
+460	2	86	68809	HiC hap2	4
+461	2	87	69366	HiC hap2	4
+462	2	88	69051	HiC hap2	4
+463	2	89	69600	HiC hap2	4
+464	2	90	69947	HiC hap2	4
+465	2	91	70892	HiC hap2	4
+466	2	92	70701	HiC hap2	4
+467	2	93	70965	HiC hap2	4
+468	2	94	71230	HiC hap2	4
+469	2	95	71263	HiC hap2	4
+470	2	96	71859	HiC hap2	4
+471	2	97	71533	HiC hap2	4
+472	2	98	71363	HiC hap2	4
+473	2	99	71535	HiC hap2	4
+474	2	100	72130	HiC hap2	4
+475	2	101	72228	HiC hap2	4
+476	2	102	72091	HiC hap2	4
+477	2	103	71770	HiC hap2	4
+478	2	104	72171	HiC hap2	4
+479	2	105	72185	HiC hap2	4
+480	2	106	71755	HiC hap2	4
+481	2	107	71727	HiC hap2	4
+482	2	108	71738	HiC hap2	4
+483	2	109	71386	HiC hap2	4
+484	2	110	71531	HiC hap2	4
+485	2	111	71566	HiC hap2	4
+486	2	112	70642	HiC hap2	4
+487	2	113	71364	HiC hap2	4
+488	2	114	71122	HiC hap2	4
+489	2	115	70319	HiC hap2	4
+490	2	116	70284	HiC hap2	4
+491	2	117	70045	HiC hap2	4
+492	2	118	69619	HiC hap2	4
+493	2	119	68841	HiC hap2	4
+494	2	120	68467	HiC hap2	4
+495	2	121	67406	HiC hap2	4
+496	2	122	67629	HiC hap2	4
+497	2	123	67066	HiC hap2	4
+498	2	124	66592	HiC hap2	4
+499	2	125	65884	HiC hap2	4
+500	2	126	65682	HiC hap2	4
+501	2	127	64597	HiC hap2	4
+502	2	128	64527	HiC hap2	4
+503	2	129	62890	HiC hap2	4
+504	2	130	62353	HiC hap2	4
+505	2	131	61439	HiC hap2	4
+506	2	132	61268	HiC hap2	4
+507	2	133	60192	HiC hap2	4
+508	2	134	59147	HiC hap2	4
+509	2	135	58000	HiC hap2	4
+510	2	136	57423	HiC hap2	4
+511	2	137	56475	HiC hap2	4
+512	2	138	55301	HiC hap2	4
+513	2	139	54446	HiC hap2	4
+514	2	140	53569	HiC hap2	4
+515	2	141	52490	HiC hap2	4
+516	2	142	51432	HiC hap2	4
+517	2	143	50764	HiC hap2	4
+518	2	144	49740	HiC hap2	4
+519	2	145	48592	HiC hap2	4
+520	2	146	47065	HiC hap2	4
+521	2	147	46111	HiC hap2	4
+522	2	148	44779	HiC hap2	4
+523	2	149	43854	HiC hap2	4
+524	2	150	42714	HiC hap2	4
+525	2	20	58730	HiFi-only (pri)	5
+526	2	21	65424	HiFi-only (pri)	5
+527	2	22	73322	HiFi-only (pri)	5
+528	2	23	82396	HiFi-only (pri)	5
+529	2	24	92084	HiFi-only (pri)	5
+530	2	25	103380	HiFi-only (pri)	5
+531	2	26	116352	HiFi-only (pri)	5
+532	2	27	128288	HiFi-only (pri)	5
+533	2	28	143176	HiFi-only (pri)	5
+534	2	29	157783	HiFi-only (pri)	5
+535	2	30	172411	HiFi-only (pri)	5
+536	2	31	187767	HiFi-only (pri)	5
+537	2	32	205488	HiFi-only (pri)	5
+538	2	33	221783	HiFi-only (pri)	5
+539	2	34	241328	HiFi-only (pri)	5
+540	2	35	259080	HiFi-only (pri)	5
+541	2	36	276200	HiFi-only (pri)	5
+542	2	37	294260	HiFi-only (pri)	5
+543	2	38	312527	HiFi-only (pri)	5
+544	2	39	332886	HiFi-only (pri)	5
+545	2	40	350796	HiFi-only (pri)	5
+546	2	41	368896	HiFi-only (pri)	5
+547	2	42	386894	HiFi-only (pri)	5
+548	2	43	405717	HiFi-only (pri)	5
+549	2	44	424665	HiFi-only (pri)	5
+550	2	45	440797	HiFi-only (pri)	5
+551	2	46	458171	HiFi-only (pri)	5
+552	2	47	477576	HiFi-only (pri)	5
+553	2	48	494628	HiFi-only (pri)	5
+554	2	49	511729	HiFi-only (pri)	5
+555	2	50	524748	HiFi-only (pri)	5
+556	2	51	541202	HiFi-only (pri)	5
+557	2	52	555360	HiFi-only (pri)	5
+558	2	53	569633	HiFi-only (pri)	5
+559	2	54	585044	HiFi-only (pri)	5
+560	2	55	595510	HiFi-only (pri)	5
+561	2	56	605096	HiFi-only (pri)	5
+562	2	57	613606	HiFi-only (pri)	5
+563	2	58	622007	HiFi-only (pri)	5
+564	2	59	628691	HiFi-only (pri)	5
+565	2	60	634310	HiFi-only (pri)	5
+566	2	61	635940	HiFi-only (pri)	5
+567	2	62	638006	HiFi-only (pri)	5
+568	2	63	635210	HiFi-only (pri)	5
+569	2	64	629924	HiFi-only (pri)	5
+570	2	65	626336	HiFi-only (pri)	5
+571	2	66	618507	HiFi-only (pri)	5
+572	2	67	611284	HiFi-only (pri)	5
+573	2	68	599074	HiFi-only (pri)	5
+574	2	69	586464	HiFi-only (pri)	5
+575	2	70	574984	HiFi-only (pri)	5
+576	2	71	560999	HiFi-only (pri)	5
+577	2	72	542149	HiFi-only (pri)	5
+578	2	73	527492	HiFi-only (pri)	5
+579	2	74	509727	HiFi-only (pri)	5
+580	2	75	491919	HiFi-only (pri)	5
+581	2	76	474764	HiFi-only (pri)	5
+582	2	77	455230	HiFi-only (pri)	5
+583	2	78	436040	HiFi-only (pri)	5
+584	2	79	417691	HiFi-only (pri)	5
+585	2	80	397022	HiFi-only (pri)	5
+586	2	81	377182	HiFi-only (pri)	5
+587	2	82	358425	HiFi-only (pri)	5
+588	2	83	340141	HiFi-only (pri)	5
+589	2	84	322581	HiFi-only (pri)	5
+590	2	85	306489	HiFi-only (pri)	5
+591	2	86	291323	HiFi-only (pri)	5
+592	2	87	274484	HiFi-only (pri)	5
+593	2	88	260547	HiFi-only (pri)	5
+594	2	89	247534	HiFi-only (pri)	5
+595	2	90	234233	HiFi-only (pri)	5
+596	2	91	223174	HiFi-only (pri)	5
+597	2	92	211208	HiFi-only (pri)	5
+598	2	93	200414	HiFi-only (pri)	5
+599	2	94	189718	HiFi-only (pri)	5
+600	2	95	180477	HiFi-only (pri)	5
+601	2	96	171514	HiFi-only (pri)	5
+602	2	97	162706	HiFi-only (pri)	5
+603	2	98	155548	HiFi-only (pri)	5
+604	2	99	148121	HiFi-only (pri)	5
+605	2	100	141142	HiFi-only (pri)	5
+606	2	101	135354	HiFi-only (pri)	5
+607	2	102	129598	HiFi-only (pri)	5
+608	2	103	124812	HiFi-only (pri)	5
+609	2	104	119931	HiFi-only (pri)	5
+610	2	105	115639	HiFi-only (pri)	5
+611	2	106	111726	HiFi-only (pri)	5
+612	2	107	108041	HiFi-only (pri)	5
+613	2	108	104857	HiFi-only (pri)	5
+614	2	109	101015	HiFi-only (pri)	5
+615	2	110	97675	HiFi-only (pri)	5
+616	2	111	95685	HiFi-only (pri)	5
+617	2	112	92152	HiFi-only (pri)	5
+618	2	113	90667	HiFi-only (pri)	5
+619	2	114	88430	HiFi-only (pri)	5
+620	2	115	85570	HiFi-only (pri)	5
+621	2	116	84391	HiFi-only (pri)	5
+622	2	117	82144	HiFi-only (pri)	5
+623	2	118	80095	HiFi-only (pri)	5
+624	2	119	77906	HiFi-only (pri)	5
+625	2	120	76870	HiFi-only (pri)	5
+626	2	121	74504	HiFi-only (pri)	5
+627	2	122	73486	HiFi-only (pri)	5
+628	2	123	72116	HiFi-only (pri)	5
+629	2	124	70084	HiFi-only (pri)	5
+630	2	125	69138	HiFi-only (pri)	5
+631	2	126	67894	HiFi-only (pri)	5
+632	2	127	66206	HiFi-only (pri)	5
+633	2	128	65203	HiFi-only (pri)	5
+634	2	129	62878	HiFi-only (pri)	5
+635	2	130	62299	HiFi-only (pri)	5
+636	2	131	60563	HiFi-only (pri)	5
+637	2	132	60224	HiFi-only (pri)	5
+638	2	133	59134	HiFi-only (pri)	5
+639	2	134	57490	HiFi-only (pri)	5
+640	2	135	55846	HiFi-only (pri)	5
+641	2	136	54844	HiFi-only (pri)	5
+642	2	137	53557	HiFi-only (pri)	5
+643	2	138	52258	HiFi-only (pri)	5
+644	2	139	51148	HiFi-only (pri)	5
+645	2	140	50228	HiFi-only (pri)	5
+646	2	141	48963	HiFi-only (pri)	5
+647	2	142	47745	HiFi-only (pri)	5
+648	2	143	46987	HiFi-only (pri)	5
+649	2	144	45932	HiFi-only (pri)	5
+650	2	145	44724	HiFi-only (pri)	5
+651	2	146	43101	HiFi-only (pri)	5
+652	2	147	42055	HiFi-only (pri)	5
+653	2	148	40762	HiFi-only (pri)	5
+654	2	149	39916	HiFi-only (pri)	5
+655	2	150	38596	HiFi-only (pri)	5
+656	2	20	15595	HiFi-only (alt)	6
+657	2	21	16755	HiFi-only (alt)	6
+658	2	22	17926	HiFi-only (alt)	6
+659	2	23	19379	HiFi-only (alt)	6
+660	2	24	20252	HiFi-only (alt)	6
+661	2	25	20868	HiFi-only (alt)	6
+662	2	26	21691	HiFi-only (alt)	6
+663	2	27	22699	HiFi-only (alt)	6
+664	2	28	23576	HiFi-only (alt)	6
+665	2	29	24908	HiFi-only (alt)	6
+666	2	30	25944	HiFi-only (alt)	6
+667	2	31	26888	HiFi-only (alt)	6
+668	2	32	28352	HiFi-only (alt)	6
+669	2	33	28620	HiFi-only (alt)	6
+670	2	34	29540	HiFi-only (alt)	6
+671	2	35	29891	HiFi-only (alt)	6
+672	2	36	30629	HiFi-only (alt)	6
+673	2	37	31564	HiFi-only (alt)	6
+674	2	38	32252	HiFi-only (alt)	6
+675	2	39	33011	HiFi-only (alt)	6
+676	2	40	33409	HiFi-only (alt)	6
+677	2	41	33886	HiFi-only (alt)	6
+678	2	42	34406	HiFi-only (alt)	6
+679	2	43	35312	HiFi-only (alt)	6
+680	2	44	36291	HiFi-only (alt)	6
+681	2	45	36832	HiFi-only (alt)	6
+682	2	46	37053	HiFi-only (alt)	6
+683	2	47	38191	HiFi-only (alt)	6
+684	2	48	39095	HiFi-only (alt)	6
+685	2	49	40283	HiFi-only (alt)	6
+686	2	50	41060	HiFi-only (alt)	6
+687	2	51	42014	HiFi-only (alt)	6
+688	2	52	42977	HiFi-only (alt)	6
+689	2	53	43488	HiFi-only (alt)	6
+690	2	54	44840	HiFi-only (alt)	6
+691	2	55	45546	HiFi-only (alt)	6
+692	2	56	46808	HiFi-only (alt)	6
+693	2	57	47179	HiFi-only (alt)	6
+694	2	58	47306	HiFi-only (alt)	6
+695	2	59	48756	HiFi-only (alt)	6
+696	2	60	49343	HiFi-only (alt)	6
+697	2	61	49803	HiFi-only (alt)	6
+698	2	62	50529	HiFi-only (alt)	6
+699	2	63	50678	HiFi-only (alt)	6
+700	2	64	50796	HiFi-only (alt)	6
+701	2	65	51089	HiFi-only (alt)	6
+702	2	66	51497	HiFi-only (alt)	6
+703	2	67	51713	HiFi-only (alt)	6
+704	2	68	52618	HiFi-only (alt)	6
+705	2	69	52954	HiFi-only (alt)	6
+706	2	70	52917	HiFi-only (alt)	6
+707	2	71	53540	HiFi-only (alt)	6
+708	2	72	53265	HiFi-only (alt)	6
+709	2	73	53709	HiFi-only (alt)	6
+710	2	74	54169	HiFi-only (alt)	6
+711	2	75	55139	HiFi-only (alt)	6
+712	2	76	54723	HiFi-only (alt)	6
+713	2	77	55207	HiFi-only (alt)	6
+714	2	78	54923	HiFi-only (alt)	6
+715	2	79	55147	HiFi-only (alt)	6
+716	2	80	55394	HiFi-only (alt)	6
+717	2	81	55748	HiFi-only (alt)	6
+718	2	82	55716	HiFi-only (alt)	6
+719	2	83	55945	HiFi-only (alt)	6
+720	2	84	55703	HiFi-only (alt)	6
+721	2	85	55742	HiFi-only (alt)	6
+722	2	86	56585	HiFi-only (alt)	6
+723	2	87	56699	HiFi-only (alt)	6
+724	2	88	56749	HiFi-only (alt)	6
+725	2	89	57234	HiFi-only (alt)	6
+726	2	90	57172	HiFi-only (alt)	6
+727	2	91	57973	HiFi-only (alt)	6
+728	2	92	58059	HiFi-only (alt)	6
+729	2	93	58392	HiFi-only (alt)	6
+730	2	94	58581	HiFi-only (alt)	6
+731	2	95	58840	HiFi-only (alt)	6
+732	2	96	59133	HiFi-only (alt)	6
+733	2	97	59042	HiFi-only (alt)	6
+734	2	98	59236	HiFi-only (alt)	6
+735	2	99	59467	HiFi-only (alt)	6
+736	2	100	60264	HiFi-only (alt)	6
+737	2	101	60092	HiFi-only (alt)	6
+738	2	102	60043	HiFi-only (alt)	6
+739	2	103	60103	HiFi-only (alt)	6
+740	2	104	59896	HiFi-only (alt)	6
+741	2	105	60566	HiFi-only (alt)	6
+742	2	106	60230	HiFi-only (alt)	6
+743	2	107	60640	HiFi-only (alt)	6
+744	2	108	60484	HiFi-only (alt)	6
+745	2	109	60235	HiFi-only (alt)	6
+746	2	110	60584	HiFi-only (alt)	6
+747	2	111	60351	HiFi-only (alt)	6
+748	2	112	59700	HiFi-only (alt)	6
+749	2	113	60174	HiFi-only (alt)	6
+750	2	114	60114	HiFi-only (alt)	6
+751	2	115	59804	HiFi-only (alt)	6
+752	2	116	59914	HiFi-only (alt)	6
+753	2	117	59631	HiFi-only (alt)	6
+754	2	118	59231	HiFi-only (alt)	6
+755	2	119	58910	HiFi-only (alt)	6
+756	2	120	58652	HiFi-only (alt)	6
+757	2	121	57729	HiFi-only (alt)	6
+758	2	122	58159	HiFi-only (alt)	6
+759	2	123	57842	HiFi-only (alt)	6
+760	2	124	57510	HiFi-only (alt)	6
+761	2	125	56668	HiFi-only (alt)	6
+762	2	126	56484	HiFi-only (alt)	6
+763	2	127	55777	HiFi-only (alt)	6
+764	2	128	55364	HiFi-only (alt)	6
+765	2	129	54401	HiFi-only (alt)	6
+766	2	130	54229	HiFi-only (alt)	6
+767	2	131	53423	HiFi-only (alt)	6
+768	2	132	53373	HiFi-only (alt)	6
+769	2	133	52872	HiFi-only (alt)	6
+770	2	134	51865	HiFi-only (alt)	6
+771	2	135	51001	HiFi-only (alt)	6
+772	2	136	50532	HiFi-only (alt)	6
+773	2	137	50026	HiFi-only (alt)	6
+774	2	138	48656	HiFi-only (alt)	6
+775	2	139	48091	HiFi-only (alt)	6
+776	2	140	47397	HiFi-only (alt)	6
+777	2	141	46821	HiFi-only (alt)	6
+778	2	142	45907	HiFi-only (alt)	6
+779	2	143	45149	HiFi-only (alt)	6
+780	2	144	44589	HiFi-only (alt)	6
+781	2	145	43518	HiFi-only (alt)	6
+782	2	146	42267	HiFi-only (alt)	6
+783	2	147	41509	HiFi-only (alt)	6
+784	2	148	40419	HiFi-only (alt)	6
+785	2	149	39569	HiFi-only (alt)	6
+786	2	150	38902	HiFi-only (alt)	6

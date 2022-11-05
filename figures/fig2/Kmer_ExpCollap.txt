@@ -1,0 +1,8 @@
+CLR	10.8603	Expansion
+HiFi-only	9.40783	Expansion
+HiFi-Hic	10.1396	Expansion
+HiFi-trio	9.55756	Expansion
+CLR	9.8146	Collapse
+HiFi-only	6.53933	Collapse
+HiFi-Hic	6.37083	Collapse
+HiFi-trio	6.79628	Collapse

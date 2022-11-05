@@ -1,0 +1,656 @@
+Copies	kmer_multiplicity	Count	Assembly	ordering
+1	read-only	20	4929927	HiC hap1	NA
+2	read-only	21	5330840	HiC hap1	NA
+3	read-only	22	5753258	HiC hap1	NA
+4	read-only	23	6179953	HiC hap1	NA
+5	read-only	24	6603988	HiC hap1	NA
+6	read-only	25	7006054	HiC hap1	NA
+7	read-only	26	7371369	HiC hap1	NA
+8	read-only	27	7693023	HiC hap1	NA
+9	read-only	28	7956409	HiC hap1	NA
+10	read-only	29	8146901	HiC hap1	NA
+11	read-only	30	8263226	HiC hap1	NA
+12	read-only	31	8313180	HiC hap1	NA
+13	read-only	32	8275378	HiC hap1	NA
+14	read-only	33	8155381	HiC hap1	NA
+15	read-only	34	7973329	HiC hap1	NA
+16	read-only	35	7724670	HiC hap1	NA
+17	read-only	36	7410000	HiC hap1	NA
+18	read-only	37	7057939	HiC hap1	NA
+19	read-only	38	6667037	HiC hap1	NA
+20	read-only	39	6245630	HiC hap1	NA
+21	read-only	40	5793739	HiC hap1	NA
+22	read-only	41	5354236	HiC hap1	NA
+23	read-only	42	4891926	HiC hap1	NA
+24	read-only	43	4449397	HiC hap1	NA
+25	read-only	44	4015915	HiC hap1	NA
+26	read-only	45	3604182	HiC hap1	NA
+27	read-only	46	3219088	HiC hap1	NA
+28	read-only	47	2855297	HiC hap1	NA
+29	read-only	48	2523591	HiC hap1	NA
+30	read-only	49	2214609	HiC hap1	NA
+31	read-only	50	1938449	HiC hap1	NA
+32	read-only	51	1687402	HiC hap1	NA
+33	read-only	52	1466458	HiC hap1	NA
+34	read-only	53	1269203	HiC hap1	NA
+35	read-only	54	1099123	HiC hap1	NA
+36	read-only	55	950877	HiC hap1	NA
+37	read-only	56	822692	HiC hap1	NA
+38	read-only	57	707223	HiC hap1	NA
+39	read-only	58	610975	HiC hap1	NA
+40	read-only	59	528179	HiC hap1	NA
+41	read-only	60	454535	HiC hap1	NA
+42	read-only	61	395760	HiC hap1	NA
+43	read-only	62	343680	HiC hap1	NA
+44	read-only	63	300823	HiC hap1	NA
+45	read-only	64	262819	HiC hap1	NA
+46	read-only	65	230977	HiC hap1	NA
+47	read-only	66	203853	HiC hap1	NA
+48	read-only	67	182446	HiC hap1	NA
+49	read-only	68	162836	HiC hap1	NA
+50	read-only	69	147810	HiC hap1	NA
+51	read-only	70	133706	HiC hap1	NA
+52	read-only	71	121136	HiC hap1	NA
+53	read-only	72	111314	HiC hap1	NA
+54	read-only	73	102195	HiC hap1	NA
+55	read-only	74	94133	HiC hap1	NA
+56	read-only	75	87605	HiC hap1	NA
+57	read-only	76	82033	HiC hap1	NA
+58	read-only	77	76781	HiC hap1	NA
+59	read-only	78	71322	HiC hap1	NA
+60	read-only	79	67431	HiC hap1	NA
+61	read-only	80	63720	HiC hap1	NA
+62	read-only	81	60759	HiC hap1	NA
+63	read-only	82	58066	HiC hap1	NA
+64	read-only	83	55152	HiC hap1	NA
+65	read-only	84	52486	HiC hap1	NA
+66	read-only	85	50252	HiC hap1	NA
+67	read-only	86	48044	HiC hap1	NA
+68	read-only	87	46211	HiC hap1	NA
+69	read-only	88	44673	HiC hap1	NA
+70	read-only	89	42828	HiC hap1	NA
+71	read-only	90	40878	HiC hap1	NA
+72	read-only	91	39793	HiC hap1	NA
+73	read-only	92	38577	HiC hap1	NA
+74	read-only	93	36950	HiC hap1	NA
+75	read-only	94	35462	HiC hap1	NA
+76	read-only	95	34354	HiC hap1	NA
+77	read-only	96	33103	HiC hap1	NA
+78	read-only	97	32128	HiC hap1	NA
+79	read-only	98	30931	HiC hap1	NA
+80	read-only	99	30367	HiC hap1	NA
+81	read-only	100	28986	HiC hap1	NA
+82	read-only	101	28254	HiC hap1	NA
+83	read-only	102	27529	HiC hap1	NA
+84	read-only	103	26781	HiC hap1	NA
+85	read-only	104	26103	HiC hap1	NA
+86	read-only	105	25200	HiC hap1	NA
+87	read-only	106	24742	HiC hap1	NA
+88	read-only	107	24093	HiC hap1	NA
+89	read-only	108	23434	HiC hap1	NA
+90	read-only	109	22884	HiC hap1	NA
+91	read-only	110	22475	HiC hap1	NA
+92	read-only	111	21915	HiC hap1	NA
+93	read-only	112	21480	HiC hap1	NA
+94	read-only	113	21017	HiC hap1	NA
+95	read-only	114	20667	HiC hap1	NA
+96	read-only	115	20007	HiC hap1	NA
+97	read-only	116	19584	HiC hap1	NA
+98	read-only	117	19231	HiC hap1	NA
+99	read-only	118	19057	HiC hap1	NA
+100	read-only	119	18547	HiC hap1	NA
+101	read-only	120	17839	HiC hap1	NA
+102	read-only	121	17522	HiC hap1	NA
+103	read-only	122	17323	HiC hap1	NA
+104	read-only	123	16869	HiC hap1	NA
+105	read-only	124	16640	HiC hap1	NA
+106	read-only	125	16102	HiC hap1	NA
+107	read-only	126	15862	HiC hap1	NA
+108	read-only	127	15715	HiC hap1	NA
+109	read-only	128	15277	HiC hap1	NA
+110	read-only	129	15099	HiC hap1	NA
+111	read-only	130	14630	HiC hap1	NA
+112	read-only	131	14420	HiC hap1	NA
+113	read-only	132	14054	HiC hap1	NA
+114	read-only	133	13948	HiC hap1	NA
+115	read-only	134	13615	HiC hap1	NA
+116	read-only	135	13474	HiC hap1	NA
+117	read-only	136	13353	HiC hap1	NA
+118	read-only	137	12779	HiC hap1	NA
+119	read-only	138	12688	HiC hap1	NA
+120	read-only	139	12451	HiC hap1	NA
+121	read-only	140	12506	HiC hap1	NA
+122	read-only	141	12201	HiC hap1	NA
+123	read-only	142	11732	HiC hap1	NA
+124	read-only	143	11850	HiC hap1	NA
+125	read-only	144	11462	HiC hap1	NA
+126	read-only	145	11361	HiC hap1	NA
+127	read-only	146	11147	HiC hap1	NA
+128	read-only	147	10763	HiC hap1	NA
+129	read-only	148	10956	HiC hap1	NA
+130	read-only	149	10658	HiC hap1	NA
+131	read-only	150	10576	HiC hap1	NA
+132	read-only	20	6112647	HiC hap2	NA
+133	read-only	21	6665431	HiC hap2	NA
+134	read-only	22	7239765	HiC hap2	NA
+135	read-only	23	7820220	HiC hap2	NA
+136	read-only	24	8389695	HiC hap2	NA
+137	read-only	25	8932833	HiC hap2	NA
+138	read-only	26	9428063	HiC hap2	NA
+139	read-only	27	9869913	HiC hap2	NA
+140	read-only	28	10246495	HiC hap2	NA
+141	read-only	29	10544881	HiC hap2	NA
+142	read-only	30	10735794	HiC hap2	NA
+143	read-only	31	10827622	HiC hap2	NA
+144	read-only	32	10828251	HiC hap2	NA
+145	read-only	33	10715728	HiC hap2	NA
+146	read-only	34	10513193	HiC hap2	NA
+147	read-only	35	10210849	HiC hap2	NA
+148	read-only	36	9827799	HiC hap2	NA
+149	read-only	37	9375314	HiC hap2	NA
+150	read-only	38	8874986	HiC hap2	NA
+151	read-only	39	8327298	HiC hap2	NA
+152	read-only	40	7750402	HiC hap2	NA
+153	read-only	41	7155054	HiC hap2	NA
+154	read-only	42	6559269	HiC hap2	NA
+155	read-only	43	5973412	HiC hap2	NA
+156	read-only	44	5403770	HiC hap2	NA
+157	read-only	45	4865579	HiC hap2	NA
+158	read-only	46	4344553	HiC hap2	NA
+159	read-only	47	3858286	HiC hap2	NA
+160	read-only	48	3422163	HiC hap2	NA
+161	read-only	49	3012457	HiC hap2	NA
+162	read-only	50	2642914	HiC hap2	NA
+163	read-only	51	2312949	HiC hap2	NA
+164	read-only	52	2014100	HiC hap2	NA
+165	read-only	53	1749254	HiC hap2	NA
+166	read-only	54	1517642	HiC hap2	NA
+167	read-only	55	1315435	HiC hap2	NA
+168	read-only	56	1142327	HiC hap2	NA
+169	read-only	57	989426	HiC hap2	NA
+170	read-only	58	860099	HiC hap2	NA
+171	read-only	59	745413	HiC hap2	NA
+172	read-only	60	647570	HiC hap2	NA
+173	read-only	61	564924	HiC hap2	NA
+174	read-only	62	494780	HiC hap2	NA
+175	read-only	63	435826	HiC hap2	NA
+176	read-only	64	384757	HiC hap2	NA
+177	read-only	65	342270	HiC hap2	NA
+178	read-only	66	305834	HiC hap2	NA
+179	read-only	67	275458	HiC hap2	NA
+180	read-only	68	249086	HiC hap2	NA
+181	read-only	69	225254	HiC hap2	NA
+182	read-only	70	205995	HiC hap2	NA
+183	read-only	71	189571	HiC hap2	NA
+184	read-only	72	174942	HiC hap2	NA
+185	read-only	73	161803	HiC hap2	NA
+186	read-only	74	151566	HiC hap2	NA
+187	read-only	75	140716	HiC hap2	NA
+188	read-only	76	131456	HiC hap2	NA
+189	read-only	77	124221	HiC hap2	NA
+190	read-only	78	116586	HiC hap2	NA
+191	read-only	79	110909	HiC hap2	NA
+192	read-only	80	104782	HiC hap2	NA
+193	read-only	81	99772	HiC hap2	NA
+194	read-only	82	95309	HiC hap2	NA
+195	read-only	83	90467	HiC hap2	NA
+196	read-only	84	85390	HiC hap2	NA
+197	read-only	85	82960	HiC hap2	NA
+198	read-only	86	78519	HiC hap2	NA
+199	read-only	87	75618	HiC hap2	NA
+200	read-only	88	73242	HiC hap2	NA
+201	read-only	89	69998	HiC hap2	NA
+202	read-only	90	67092	HiC hap2	NA
+203	read-only	91	64854	HiC hap2	NA
+204	read-only	92	62533	HiC hap2	NA
+205	read-only	93	60556	HiC hap2	NA
+206	read-only	94	58404	HiC hap2	NA
+207	read-only	95	56574	HiC hap2	NA
+208	read-only	96	54091	HiC hap2	NA
+209	read-only	97	52363	HiC hap2	NA
+210	read-only	98	50715	HiC hap2	NA
+211	read-only	99	49428	HiC hap2	NA
+212	read-only	100	47179	HiC hap2	NA
+213	read-only	101	46236	HiC hap2	NA
+214	read-only	102	45559	HiC hap2	NA
+215	read-only	103	44131	HiC hap2	NA
+216	read-only	104	42620	HiC hap2	NA
+217	read-only	105	41513	HiC hap2	NA
+218	read-only	106	40550	HiC hap2	NA
+219	read-only	107	39373	HiC hap2	NA
+220	read-only	108	38009	HiC hap2	NA
+221	read-only	109	37325	HiC hap2	NA
+222	read-only	110	36294	HiC hap2	NA
+223	read-only	111	35243	HiC hap2	NA
+224	read-only	112	34541	HiC hap2	NA
+225	read-only	113	33654	HiC hap2	NA
+226	read-only	114	32769	HiC hap2	NA
+227	read-only	115	32031	HiC hap2	NA
+228	read-only	116	31188	HiC hap2	NA
+229	read-only	117	30840	HiC hap2	NA
+230	read-only	118	30168	HiC hap2	NA
+231	read-only	119	29478	HiC hap2	NA
+232	read-only	120	28679	HiC hap2	NA
+233	read-only	121	28157	HiC hap2	NA
+234	read-only	122	27587	HiC hap2	NA
+235	read-only	123	26645	HiC hap2	NA
+236	read-only	124	26120	HiC hap2	NA
+237	read-only	125	25688	HiC hap2	NA
+238	read-only	126	25003	HiC hap2	NA
+239	read-only	127	24759	HiC hap2	NA
+240	read-only	128	23932	HiC hap2	NA
+241	read-only	129	23809	HiC hap2	NA
+242	read-only	130	23252	HiC hap2	NA
+243	read-only	131	22755	HiC hap2	NA
+244	read-only	132	22069	HiC hap2	NA
+245	read-only	133	22000	HiC hap2	NA
+246	read-only	134	21585	HiC hap2	NA
+247	read-only	135	21348	HiC hap2	NA
+248	read-only	136	20857	HiC hap2	NA
+249	read-only	137	20117	HiC hap2	NA
+250	read-only	138	20182	HiC hap2	NA
+251	read-only	139	19483	HiC hap2	NA
+252	read-only	140	19576	HiC hap2	NA
+253	read-only	141	19073	HiC hap2	NA
+254	read-only	142	18500	HiC hap2	NA
+255	read-only	143	18514	HiC hap2	NA
+256	read-only	144	17849	HiC hap2	NA
+257	read-only	145	17775	HiC hap2	NA
+258	read-only	146	17179	HiC hap2	NA
+259	read-only	147	16818	HiC hap2	NA
+260	read-only	148	16955	HiC hap2	NA
+261	read-only	149	16360	HiC hap2	NA
+262	read-only	150	16052	HiC hap2	NA
+263	read-only	20	5355927	Trio hap1 (pat)	NA
+264	read-only	21	5778544	Trio hap1 (pat)	NA
+265	read-only	22	6207072	Trio hap1 (pat)	NA
+266	read-only	23	6650220	Trio hap1 (pat)	NA
+267	read-only	24	7068831	Trio hap1 (pat)	NA
+268	read-only	25	7459148	Trio hap1 (pat)	NA
+269	read-only	26	7802591	Trio hap1 (pat)	NA
+270	read-only	27	8100117	Trio hap1 (pat)	NA
+271	read-only	28	8336238	Trio hap1 (pat)	NA
+272	read-only	29	8510975	Trio hap1 (pat)	NA
+273	read-only	30	8603627	Trio hap1 (pat)	NA
+274	read-only	31	8625974	Trio hap1 (pat)	NA
+275	read-only	32	8570953	Trio hap1 (pat)	NA
+276	read-only	33	8431992	Trio hap1 (pat)	NA
+277	read-only	34	8225274	Trio hap1 (pat)	NA
+278	read-only	35	7950823	Trio hap1 (pat)	NA
+279	read-only	36	7626484	Trio hap1 (pat)	NA
+280	read-only	37	7252908	Trio hap1 (pat)	NA
+281	read-only	38	6852501	Trio hap1 (pat)	NA
+282	read-only	39	6427098	Trio hap1 (pat)	NA
+283	read-only	40	5965533	Trio hap1 (pat)	NA
+284	read-only	41	5514309	Trio hap1 (pat)	NA
+285	read-only	42	5053552	Trio hap1 (pat)	NA
+286	read-only	43	4615765	Trio hap1 (pat)	NA
+287	read-only	44	4193172	Trio hap1 (pat)	NA
+288	read-only	45	3794284	Trio hap1 (pat)	NA
+289	read-only	46	3416641	Trio hap1 (pat)	NA
+290	read-only	47	3062104	Trio hap1 (pat)	NA
+291	read-only	48	2753017	Trio hap1 (pat)	NA
+292	read-only	49	2463671	Trio hap1 (pat)	NA
+293	read-only	50	2205970	Trio hap1 (pat)	NA
+294	read-only	51	1973663	Trio hap1 (pat)	NA
+295	read-only	52	1775295	Trio hap1 (pat)	NA
+296	read-only	53	1598204	Trio hap1 (pat)	NA
+297	read-only	54	1447462	Trio hap1 (pat)	NA
+298	read-only	55	1318244	Trio hap1 (pat)	NA
+299	read-only	56	1211426	Trio hap1 (pat)	NA
+300	read-only	57	1113670	Trio hap1 (pat)	NA
+301	read-only	58	1036817	Trio hap1 (pat)	NA
+302	read-only	59	972035	Trio hap1 (pat)	NA
+303	read-only	60	915082	Trio hap1 (pat)	NA
+304	read-only	61	873164	Trio hap1 (pat)	NA
+305	read-only	62	835790	Trio hap1 (pat)	NA
+306	read-only	63	805064	Trio hap1 (pat)	NA
+307	read-only	64	775495	Trio hap1 (pat)	NA
+308	read-only	65	752627	Trio hap1 (pat)	NA
+309	read-only	66	735902	Trio hap1 (pat)	NA
+310	read-only	67	716452	Trio hap1 (pat)	NA
+311	read-only	68	699782	Trio hap1 (pat)	NA
+312	read-only	69	683547	Trio hap1 (pat)	NA
+313	read-only	70	666041	Trio hap1 (pat)	NA
+314	read-only	71	650689	Trio hap1 (pat)	NA
+315	read-only	72	633571	Trio hap1 (pat)	NA
+316	read-only	73	612247	Trio hap1 (pat)	NA
+317	read-only	74	594002	Trio hap1 (pat)	NA
+318	read-only	75	577373	Trio hap1 (pat)	NA
+319	read-only	76	556089	Trio hap1 (pat)	NA
+320	read-only	77	537381	Trio hap1 (pat)	NA
+321	read-only	78	516719	Trio hap1 (pat)	NA
+322	read-only	79	495006	Trio hap1 (pat)	NA
+323	read-only	80	472932	Trio hap1 (pat)	NA
+324	read-only	81	452946	Trio hap1 (pat)	NA
+325	read-only	82	432781	Trio hap1 (pat)	NA
+326	read-only	83	410623	Trio hap1 (pat)	NA
+327	read-only	84	388307	Trio hap1 (pat)	NA
+328	read-only	85	368157	Trio hap1 (pat)	NA
+329	read-only	86	347447	Trio hap1 (pat)	NA
+330	read-only	87	327764	Trio hap1 (pat)	NA
+331	read-only	88	307129	Trio hap1 (pat)	NA
+332	read-only	89	287957	Trio hap1 (pat)	NA
+333	read-only	90	270494	Trio hap1 (pat)	NA
+334	read-only	91	253213	Trio hap1 (pat)	NA
+335	read-only	92	236617	Trio hap1 (pat)	NA
+336	read-only	93	220631	Trio hap1 (pat)	NA
+337	read-only	94	206020	Trio hap1 (pat)	NA
+338	read-only	95	191635	Trio hap1 (pat)	NA
+339	read-only	96	176650	Trio hap1 (pat)	NA
+340	read-only	97	164711	Trio hap1 (pat)	NA
+341	read-only	98	152537	Trio hap1 (pat)	NA
+342	read-only	99	141236	Trio hap1 (pat)	NA
+343	read-only	100	130450	Trio hap1 (pat)	NA
+344	read-only	101	120732	Trio hap1 (pat)	NA
+345	read-only	102	112265	Trio hap1 (pat)	NA
+346	read-only	103	104382	Trio hap1 (pat)	NA
+347	read-only	104	96697	Trio hap1 (pat)	NA
+348	read-only	105	89482	Trio hap1 (pat)	NA
+349	read-only	106	83908	Trio hap1 (pat)	NA
+350	read-only	107	77881	Trio hap1 (pat)	NA
+351	read-only	108	72299	Trio hap1 (pat)	NA
+352	read-only	109	67054	Trio hap1 (pat)	NA
+353	read-only	110	62807	Trio hap1 (pat)	NA
+354	read-only	111	58446	Trio hap1 (pat)	NA
+355	read-only	112	54517	Trio hap1 (pat)	NA
+356	read-only	113	51964	Trio hap1 (pat)	NA
+357	read-only	114	48750	Trio hap1 (pat)	NA
+358	read-only	115	45317	Trio hap1 (pat)	NA
+359	read-only	116	42535	Trio hap1 (pat)	NA
+360	read-only	117	40587	Trio hap1 (pat)	NA
+361	read-only	118	38457	Trio hap1 (pat)	NA
+362	read-only	119	35914	Trio hap1 (pat)	NA
+363	read-only	120	33899	Trio hap1 (pat)	NA
+364	read-only	121	32457	Trio hap1 (pat)	NA
+365	read-only	122	31191	Trio hap1 (pat)	NA
+366	read-only	123	29575	Trio hap1 (pat)	NA
+367	read-only	124	28317	Trio hap1 (pat)	NA
+368	read-only	125	26996	Trio hap1 (pat)	NA
+369	read-only	126	25755	Trio hap1 (pat)	NA
+370	read-only	127	25109	Trio hap1 (pat)	NA
+371	read-only	128	24156	Trio hap1 (pat)	NA
+372	read-only	129	23446	Trio hap1 (pat)	NA
+373	read-only	130	22370	Trio hap1 (pat)	NA
+374	read-only	131	21654	Trio hap1 (pat)	NA
+375	read-only	132	20978	Trio hap1 (pat)	NA
+376	read-only	133	20420	Trio hap1 (pat)	NA
+377	read-only	134	19637	Trio hap1 (pat)	NA
+378	read-only	135	19290	Trio hap1 (pat)	NA
+379	read-only	136	18622	Trio hap1 (pat)	NA
+380	read-only	137	17983	Trio hap1 (pat)	NA
+381	read-only	138	17832	Trio hap1 (pat)	NA
+382	read-only	139	17109	Trio hap1 (pat)	NA
+383	read-only	140	17037	Trio hap1 (pat)	NA
+384	read-only	141	16417	Trio hap1 (pat)	NA
+385	read-only	142	15843	Trio hap1 (pat)	NA
+386	read-only	143	15696	Trio hap1 (pat)	NA
+387	read-only	144	15192	Trio hap1 (pat)	NA
+388	read-only	145	14987	Trio hap1 (pat)	NA
+389	read-only	146	14623	Trio hap1 (pat)	NA
+390	read-only	147	14063	Trio hap1 (pat)	NA
+391	read-only	148	14225	Trio hap1 (pat)	NA
+392	read-only	149	13723	Trio hap1 (pat)	NA
+393	read-only	150	13582	Trio hap1 (pat)	NA
+394	read-only	20	5649799	Trio hap2 (mat)	NA
+395	read-only	21	6174029	Trio hap2 (mat)	NA
+396	read-only	22	6735854	Trio hap2 (mat)	NA
+397	read-only	23	7294360	Trio hap2 (mat)	NA
+398	read-only	24	7862262	Trio hap2 (mat)	NA
+399	read-only	25	8410014	Trio hap2 (mat)	NA
+400	read-only	26	8920663	Trio hap2 (mat)	NA
+401	read-only	27	9381348	Trio hap2 (mat)	NA
+402	read-only	28	9780664	Trio hap2 (mat)	NA
+403	read-only	29	10089403	Trio hap2 (mat)	NA
+404	read-only	30	10303010	Trio hap2 (mat)	NA
+405	read-only	31	10423186	Trio hap2 (mat)	NA
+406	read-only	32	10439337	Trio hap2 (mat)	NA
+407	read-only	33	10348458	Trio hap2 (mat)	NA
+408	read-only	34	10172386	Trio hap2 (mat)	NA
+409	read-only	35	9899786	Trio hap2 (mat)	NA
+410	read-only	36	9533618	Trio hap2 (mat)	NA
+411	read-only	37	9114220	Trio hap2 (mat)	NA
+412	read-only	38	8632488	Trio hap2 (mat)	NA
+413	read-only	39	8103044	Trio hap2 (mat)	NA
+414	read-only	40	7549427	Trio hap2 (mat)	NA
+415	read-only	41	6980376	Trio hap2 (mat)	NA
+416	read-only	42	6402321	Trio hap2 (mat)	NA
+417	read-only	43	5828394	Trio hap2 (mat)	NA
+418	read-only	44	5265769	Trio hap2 (mat)	NA
+419	read-only	45	4734921	Trio hap2 (mat)	NA
+420	read-only	46	4228900	Trio hap2 (mat)	NA
+421	read-only	47	3755726	Trio hap2 (mat)	NA
+422	read-only	48	3320156	Trio hap2 (mat)	NA
+423	read-only	49	2913434	Trio hap2 (mat)	NA
+424	read-only	50	2549979	Trio hap2 (mat)	NA
+425	read-only	51	2224673	Trio hap2 (mat)	NA
+426	read-only	52	1928283	Trio hap2 (mat)	NA
+427	read-only	53	1670158	Trio hap2 (mat)	NA
+428	read-only	54	1443400	Trio hap2 (mat)	NA
+429	read-only	55	1246163	Trio hap2 (mat)	NA
+430	read-only	56	1076798	Trio hap2 (mat)	NA
+431	read-only	57	926179	Trio hap2 (mat)	NA
+432	read-only	58	798837	Trio hap2 (mat)	NA
+433	read-only	59	687290	Trio hap2 (mat)	NA
+434	read-only	60	592163	Trio hap2 (mat)	NA
+435	read-only	61	512136	Trio hap2 (mat)	NA
+436	read-only	62	444197	Trio hap2 (mat)	NA
+437	read-only	63	387045	Trio hap2 (mat)	NA
+438	read-only	64	338341	Trio hap2 (mat)	NA
+439	read-only	65	297129	Trio hap2 (mat)	NA
+440	read-only	66	263179	Trio hap2 (mat)	NA
+441	read-only	67	234158	Trio hap2 (mat)	NA
+442	read-only	68	208848	Trio hap2 (mat)	NA
+443	read-only	69	187357	Trio hap2 (mat)	NA
+444	read-only	70	169949	Trio hap2 (mat)	NA
+445	read-only	71	153497	Trio hap2 (mat)	NA
+446	read-only	72	140956	Trio hap2 (mat)	NA
+447	read-only	73	130530	Trio hap2 (mat)	NA
+448	read-only	74	120351	Trio hap2 (mat)	NA
+449	read-only	75	111020	Trio hap2 (mat)	NA
+450	read-only	76	103931	Trio hap2 (mat)	NA
+451	read-only	77	97282	Trio hap2 (mat)	NA
+452	read-only	78	90874	Trio hap2 (mat)	NA
+453	read-only	79	85382	Trio hap2 (mat)	NA
+454	read-only	80	80358	Trio hap2 (mat)	NA
+455	read-only	81	75970	Trio hap2 (mat)	NA
+456	read-only	82	72471	Trio hap2 (mat)	NA
+457	read-only	83	68899	Trio hap2 (mat)	NA
+458	read-only	84	64702	Trio hap2 (mat)	NA
+459	read-only	85	62190	Trio hap2 (mat)	NA
+460	read-only	86	59357	Trio hap2 (mat)	NA
+461	read-only	87	56612	Trio hap2 (mat)	NA
+462	read-only	88	54901	Trio hap2 (mat)	NA
+463	read-only	89	52468	Trio hap2 (mat)	NA
+464	read-only	90	50108	Trio hap2 (mat)	NA
+465	read-only	91	48847	Trio hap2 (mat)	NA
+466	read-only	92	47050	Trio hap2 (mat)	NA
+467	read-only	93	45190	Trio hap2 (mat)	NA
+468	read-only	94	43475	Trio hap2 (mat)	NA
+469	read-only	95	42052	Trio hap2 (mat)	NA
+470	read-only	96	40210	Trio hap2 (mat)	NA
+471	read-only	97	39084	Trio hap2 (mat)	NA
+472	read-only	98	37805	Trio hap2 (mat)	NA
+473	read-only	99	36919	Trio hap2 (mat)	NA
+474	read-only	100	35109	Trio hap2 (mat)	NA
+475	read-only	101	34258	Trio hap2 (mat)	NA
+476	read-only	102	33463	Trio hap2 (mat)	NA
+477	read-only	103	32569	Trio hap2 (mat)	NA
+478	read-only	104	31390	Trio hap2 (mat)	NA
+479	read-only	105	30559	Trio hap2 (mat)	NA
+480	read-only	106	29895	Trio hap2 (mat)	NA
+481	read-only	107	28947	Trio hap2 (mat)	NA
+482	read-only	108	28227	Trio hap2 (mat)	NA
+483	read-only	109	27580	Trio hap2 (mat)	NA
+484	read-only	110	27133	Trio hap2 (mat)	NA
+485	read-only	111	26361	Trio hap2 (mat)	NA
+486	read-only	112	25687	Trio hap2 (mat)	NA
+487	read-only	113	24963	Trio hap2 (mat)	NA
+488	read-only	114	24587	Trio hap2 (mat)	NA
+489	read-only	115	23980	Trio hap2 (mat)	NA
+490	read-only	116	23458	Trio hap2 (mat)	NA
+491	read-only	117	23252	Trio hap2 (mat)	NA
+492	read-only	118	22717	Trio hap2 (mat)	NA
+493	read-only	119	22139	Trio hap2 (mat)	NA
+494	read-only	120	21438	Trio hap2 (mat)	NA
+495	read-only	121	20992	Trio hap2 (mat)	NA
+496	read-only	122	20640	Trio hap2 (mat)	NA
+497	read-only	123	19947	Trio hap2 (mat)	NA
+498	read-only	124	19627	Trio hap2 (mat)	NA
+499	read-only	125	19124	Trio hap2 (mat)	NA
+500	read-only	126	18776	Trio hap2 (mat)	NA
+501	read-only	127	18419	Trio hap2 (mat)	NA
+502	read-only	128	17979	Trio hap2 (mat)	NA
+503	read-only	129	17654	Trio hap2 (mat)	NA
+504	read-only	130	17390	Trio hap2 (mat)	NA
+505	read-only	131	17053	Trio hap2 (mat)	NA
+506	read-only	132	16566	Trio hap2 (mat)	NA
+507	read-only	133	16540	Trio hap2 (mat)	NA
+508	read-only	134	16165	Trio hap2 (mat)	NA
+509	read-only	135	16022	Trio hap2 (mat)	NA
+510	read-only	136	15799	Trio hap2 (mat)	NA
+511	read-only	137	15190	Trio hap2 (mat)	NA
+512	read-only	138	15106	Trio hap2 (mat)	NA
+513	read-only	139	14625	Trio hap2 (mat)	NA
+514	read-only	140	14819	Trio hap2 (mat)	NA
+515	read-only	141	14381	Trio hap2 (mat)	NA
+516	read-only	142	13919	Trio hap2 (mat)	NA
+517	read-only	143	13943	Trio hap2 (mat)	NA
+518	read-only	144	13540	Trio hap2 (mat)	NA
+519	read-only	145	13385	Trio hap2 (mat)	NA
+520	read-only	146	12936	Trio hap2 (mat)	NA
+521	read-only	147	12577	Trio hap2 (mat)	NA
+522	read-only	148	12768	Trio hap2 (mat)	NA
+523	read-only	149	12493	Trio hap2 (mat)	NA
+524	read-only	150	12340	Trio hap2 (mat)	NA
+525	2	20	58730	HiFi-only (pri)	5
+526	2	21	65424	HiFi-only (pri)	5
+527	2	22	73322	HiFi-only (pri)	5
+528	2	23	82396	HiFi-only (pri)	5
+529	2	24	92084	HiFi-only (pri)	5
+530	2	25	103380	HiFi-only (pri)	5
+531	2	26	116352	HiFi-only (pri)	5
+532	2	27	128288	HiFi-only (pri)	5
+533	2	28	143176	HiFi-only (pri)	5
+534	2	29	157783	HiFi-only (pri)	5
+535	2	30	172411	HiFi-only (pri)	5
+536	2	31	187767	HiFi-only (pri)	5
+537	2	32	205488	HiFi-only (pri)	5
+538	2	33	221783	HiFi-only (pri)	5
+539	2	34	241328	HiFi-only (pri)	5
+540	2	35	259080	HiFi-only (pri)	5
+541	2	36	276200	HiFi-only (pri)	5
+542	2	37	294260	HiFi-only (pri)	5
+543	2	38	312527	HiFi-only (pri)	5
+544	2	39	332886	HiFi-only (pri)	5
+545	2	40	350796	HiFi-only (pri)	5
+546	2	41	368896	HiFi-only (pri)	5
+547	2	42	386894	HiFi-only (pri)	5
+548	2	43	405717	HiFi-only (pri)	5
+549	2	44	424665	HiFi-only (pri)	5
+550	2	45	440797	HiFi-only (pri)	5
+551	2	46	458171	HiFi-only (pri)	5
+552	2	47	477576	HiFi-only (pri)	5
+553	2	48	494628	HiFi-only (pri)	5
+554	2	49	511729	HiFi-only (pri)	5
+555	2	50	524748	HiFi-only (pri)	5
+556	2	51	541202	HiFi-only (pri)	5
+557	2	52	555360	HiFi-only (pri)	5
+558	2	53	569633	HiFi-only (pri)	5
+559	2	54	585044	HiFi-only (pri)	5
+560	2	55	595510	HiFi-only (pri)	5
+561	2	56	605096	HiFi-only (pri)	5
+562	2	57	613606	HiFi-only (pri)	5
+563	2	58	622007	HiFi-only (pri)	5
+564	2	59	628691	HiFi-only (pri)	5
+565	2	60	634310	HiFi-only (pri)	5
+566	2	61	635940	HiFi-only (pri)	5
+567	2	62	638006	HiFi-only (pri)	5
+568	2	63	635210	HiFi-only (pri)	5
+569	2	64	629924	HiFi-only (pri)	5
+570	2	65	626336	HiFi-only (pri)	5
+571	2	66	618507	HiFi-only (pri)	5
+572	2	67	611284	HiFi-only (pri)	5
+573	2	68	599074	HiFi-only (pri)	5
+574	2	69	586464	HiFi-only (pri)	5
+575	2	70	574984	HiFi-only (pri)	5
+576	2	71	560999	HiFi-only (pri)	5
+577	2	72	542149	HiFi-only (pri)	5
+578	2	73	527492	HiFi-only (pri)	5
+579	2	74	509727	HiFi-only (pri)	5
+580	2	75	491919	HiFi-only (pri)	5
+581	2	76	474764	HiFi-only (pri)	5
+582	2	77	455230	HiFi-only (pri)	5
+583	2	78	436040	HiFi-only (pri)	5
+584	2	79	417691	HiFi-only (pri)	5
+585	2	80	397022	HiFi-only (pri)	5
+586	2	81	377182	HiFi-only (pri)	5
+587	2	82	358425	HiFi-only (pri)	5
+588	2	83	340141	HiFi-only (pri)	5
+589	2	84	322581	HiFi-only (pri)	5
+590	2	85	306489	HiFi-only (pri)	5
+591	2	86	291323	HiFi-only (pri)	5
+592	2	87	274484	HiFi-only (pri)	5
+593	2	88	260547	HiFi-only (pri)	5
+594	2	89	247534	HiFi-only (pri)	5
+595	2	90	234233	HiFi-only (pri)	5
+596	2	91	223174	HiFi-only (pri)	5
+597	2	92	211208	HiFi-only (pri)	5
+598	2	93	200414	HiFi-only (pri)	5
+599	2	94	189718	HiFi-only (pri)	5
+600	2	95	180477	HiFi-only (pri)	5
+601	2	96	171514	HiFi-only (pri)	5
+602	2	97	162706	HiFi-only (pri)	5
+603	2	98	155548	HiFi-only (pri)	5
+604	2	99	148121	HiFi-only (pri)	5
+605	2	100	141142	HiFi-only (pri)	5
+606	2	101	135354	HiFi-only (pri)	5
+607	2	102	129598	HiFi-only (pri)	5
+608	2	103	124812	HiFi-only (pri)	5
+609	2	104	119931	HiFi-only (pri)	5
+610	2	105	115639	HiFi-only (pri)	5
+611	2	106	111726	HiFi-only (pri)	5
+612	2	107	108041	HiFi-only (pri)	5
+613	2	108	104857	HiFi-only (pri)	5
+614	2	109	101015	HiFi-only (pri)	5
+615	2	110	97675	HiFi-only (pri)	5
+616	2	111	95685	HiFi-only (pri)	5
+617	2	112	92152	HiFi-only (pri)	5
+618	2	113	90667	HiFi-only (pri)	5
+619	2	114	88430	HiFi-only (pri)	5
+620	2	115	85570	HiFi-only (pri)	5
+621	2	116	84391	HiFi-only (pri)	5
+622	2	117	82144	HiFi-only (pri)	5
+623	2	118	80095	HiFi-only (pri)	5
+624	2	119	77906	HiFi-only (pri)	5
+625	2	120	76870	HiFi-only (pri)	5
+626	2	121	74504	HiFi-only (pri)	5
+627	2	122	73486	HiFi-only (pri)	5
+628	2	123	72116	HiFi-only (pri)	5
+629	2	124	70084	HiFi-only (pri)	5
+630	2	125	69138	HiFi-only (pri)	5
+631	2	126	67894	HiFi-only (pri)	5
+632	2	127	66206	HiFi-only (pri)	5
+633	2	128	65203	HiFi-only (pri)	5
+634	2	129	62878	HiFi-only (pri)	5
+635	2	130	62299	HiFi-only (pri)	5
+636	2	131	60563	HiFi-only (pri)	5
+637	2	132	60224	HiFi-only (pri)	5
+638	2	133	59134	HiFi-only (pri)	5
+639	2	134	57490	HiFi-only (pri)	5
+640	2	135	55846	HiFi-only (pri)	5
+641	2	136	54844	HiFi-only (pri)	5
+642	2	137	53557	HiFi-only (pri)	5
+643	2	138	52258	HiFi-only (pri)	5
+644	2	139	51148	HiFi-only (pri)	5
+645	2	140	50228	HiFi-only (pri)	5
+646	2	141	48963	HiFi-only (pri)	5
+647	2	142	47745	HiFi-only (pri)	5
+648	2	143	46987	HiFi-only (pri)	5
+649	2	144	45932	HiFi-only (pri)	5
+650	2	145	44724	HiFi-only (pri)	5
+651	2	146	43101	HiFi-only (pri)	5
+652	2	147	42055	HiFi-only (pri)	5
+653	2	148	40762	HiFi-only (pri)	5
+654	2	149	39916	HiFi-only (pri)	5
+655	2	150	38596	HiFi-only (pri)	5
