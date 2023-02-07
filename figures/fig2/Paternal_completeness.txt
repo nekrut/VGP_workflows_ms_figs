@@ -1,2 +1,2 @@
-Default	0.87	99.7066
-Rebinned	0.83	99.7076
+Default	0.87	79.3481
+Rebinned	0.83	80.5694
